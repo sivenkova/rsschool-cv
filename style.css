@@ -125,5 +125,18 @@ html {
     padding: 30px;
 }
 
+.footer-conteiner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    color: #829985;
+}
 
+.rss {
+    width: 121px;
+    height: 45px;    
+    background-size: contain;
+    background-repeat: no-repeat;
+}
 
